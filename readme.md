@@ -12,9 +12,10 @@
 
 ## Requisitos
 
-- Python 3.x
-- Streamlit
-- OpenAI API Key (GPT-4)
+- Python
+- OpenAI API Key (GPT-4) [Enlace](https://platform.openai.com/api-keys)
+- Gemini API Key [Enlace](https://ai.google.dev/gemini-api/docs/api-key?hl=es-419)
+- Streamlit [Enlace](https://streamlit.io/)
 
 ## Instalación
 
